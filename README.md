@@ -1,6 +1,7 @@
 # Classification_CNN
 
-**Aim:** To classify the micrographs of ultra high carbon steel
+**Aim:** To classify the micrographs of ultra-high carbon steel
+
 **Data:** 485 Scanning Electron Micrographs of ultra-high carbon steel.
 
 **Reference:** 
